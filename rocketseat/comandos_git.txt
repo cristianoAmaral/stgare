@@ -1,0 +1,21 @@
+# inicia o git (repositorio) no seu projeto
+	
+	git init
+
+# Verifica se há alterações de pastas e arquivos no projeto
+
+	git status
+
+# adiciona todos arquivos e pastas mofdigficados, ao stage area
+	
+	git add
+
+# Cria e descreve um ponto na história
+
+	git commit -m "message here"
+
+# historico de de commits do projeto
+
+	git log
+
+
